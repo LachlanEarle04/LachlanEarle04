@@ -3,4 +3,4 @@
 
 #### Currently Working On :man_technologist: - [StockBot](https://github.com/LachlanEarle04/StockBot)
 
-[My LinkTree](https://linktr.ee/lachlanearle)
+[LinkTree](https://linktr.ee/lachlanearle)
